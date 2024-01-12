@@ -1,0 +1,7 @@
+@inproceedings{REPO238,
+    author = "Zhao, Tong and Bus{\'e}, Laurent and Cohen-Steiner, David and Boubekeur, Tamy and Thiery, Jean-Marc and Alliez, Pierre",
+    booktitle = "ACM SIGGRAPH 2023 Conference Proceedings",
+    pages = "1--10",
+    title = "{Variational shape reconstruction via quadric error metrics}",
+    year = "2023"
+}
