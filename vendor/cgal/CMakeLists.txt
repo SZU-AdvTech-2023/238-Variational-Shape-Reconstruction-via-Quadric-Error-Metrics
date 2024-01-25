@@ -1,0 +1,6 @@
+find_package(CGAL REQUIRED COMPONENTS Core OPTIONAL_COMPONENTS Qt5)
+
+if(CGAL_Qt5_FOUND)
+    message(STATUS "CGAL Qt5 found")
+    set(CGAL_Qt5_FOUND TRUE PARENT_SCOPE)
+endif()
